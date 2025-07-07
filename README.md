@@ -121,7 +121,3 @@ Feel free to use, clone, and modify this repo as you wish!
 
 ```
 
----
-
-Let me know if you also want a matching `LICENSE`, GitHub topics/tags, or deploy setup for Netlify/Vercel.
-```
